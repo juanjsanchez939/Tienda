@@ -24,5 +24,3 @@
 
     📄 Licencia
     *Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-Puedes usar iconos de sitios como Font Awesome o EmojiCopy para personalizar aún más. Si tienes alguna otra idea en mente, ¡házmelo saber!
